@@ -1,0 +1,25 @@
+{
+    "name": "noadek/twiggy",
+    "type": "library",
+    "description": "Twig template engine implementation for Laravel",
+    "keywords": ["template", "twig"],
+    "homepage": "https://github.com/noadek/twiggy",
+    "authors": [
+        {
+            "name": "Adeniyi Adekoya",
+            "email": "noadek@hotmail.com",
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "twig/twig":"^1.0"
+    },
+    "require-dev": {
+        "laravel/framework": "5.3.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Twiggy\\": "src/"
+        }
+    }
+}
