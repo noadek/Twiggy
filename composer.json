@@ -4,6 +4,7 @@
     "description": "Twig template engine implementation for Laravel",
     "keywords": ["template", "twig"],
     "homepage": "https://github.com/noadek/twiggy",
+    "license": "MIT",
     "authors": [
         {
             "name": "Adeniyi Adekoya",
