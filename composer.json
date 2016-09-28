@@ -1,7 +1,7 @@
 {
     "name": "noadek/twiggy",
     "type": "library",
-    "description": "Twig template engine implementation for Laravel",
+    "description": "Twig template engine implementation for Laravel. Allows you to use Twig without replacing the default blade templating engine in Laravel 5",
     "keywords": ["template", "twig"],
     "homepage": "https://github.com/noadek/twiggy",
     "license": "MIT",
